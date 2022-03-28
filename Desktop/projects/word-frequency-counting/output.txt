@@ -1,9 +1,0 @@
-feb : 8
-apr : 6
-aug : 2
-june : 4
-sept : 1
-may : 5
-jan : 9
-july : 3
-mar : 7
